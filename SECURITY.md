@@ -12,4 +12,4 @@ issue is real.
 Please note that security related issues should NOT be posted directly in the
 issue tracker on GitHub. If you discover a vulnerability, and you have verified
 that it is still occuring in the latest code in the repository, please reach
-out to me directly via a private message over [email](greeneg@yggdrasilsoft.com).
+out to me directly via a private message over [email](mailto:greeneg@yggdrasilsoft.com).
