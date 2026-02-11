@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# generated files
+*.o
+libnss_synthgrent.so.2
